@@ -1,4 +1,4 @@
-# Social-media-sales-and-revenue
+# Social-Media-Sales-and-Revenue
 
 
 Dashboard Link: https://capgemini-my.sharepoint.com/personal/jagadeesan_mohan_capgemini_com/Documents/Desktop/UDEMY%20cOURSE/Data%20Analysis%20Projects/Excel%20Project/HR%20-%20Dashboard.xlsm?web=1
